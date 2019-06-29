@@ -1,0 +1,38 @@
+<annotation>
+	<folder>resized</folder>
+	<filename>sign_050.jpg</filename>
+	<path>C:\Users\Izanagi\Desktop\New folder\resized\sign_050.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>stop</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>273</xmin>
+			<ymin>178</ymin>
+			<xmax>415</xmax>
+			<ymax>429</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>autre</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>219</xmin>
+			<ymin>13</ymin>
+			<xmax>455</xmax>
+			<ymax>178</ymax>
+		</bndbox>
+	</object>
+</annotation>
